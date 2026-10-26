@@ -24,6 +24,7 @@ Hoy me enfoco en **React** y en **experiencias 3D para la web con Three.js**. Bu
 | [**garaje-3d**](https://github.com/SantiMarin07/garaje-3d) | Garaje para personalizar motos en 3D (pintura, piezas, accesorios), con mi Suzuki Gixxer 150 modelada por piezas | Three.js · React · Blender | En desarrollo |
 | **JARVIS OS** | Asistente personal por voz: escucha, transcribe con Whisper, responde con Claude Code y muestra un HUD con núcleo 3D | Python · faster-whisper · React · Three.js · Obsidian | En desarrollo |
 | **calma-app** | App de meditación móvil sin registro, con video y sonido ambiente | React Native · Expo · TypeScript | En desarrollo |
+| [**cosmeticos-ecommerce**](https://github.com/SantiMarin07/cosmeticos-ecommerce) | Tienda de cosméticos con catálogo, carrito, registro y análisis facial por cámara que sugiere productos | C# · ASP.NET Core MVC · MySQL · OpenCV | Proyecto académico |
 | **GestiónEquipos UC** | Préstamo de equipos universitarios con roles de admin y estudiante, inventario e historial | Java · Android Studio · MySQL | Proyecto académico |
 
 ### Herramientas
